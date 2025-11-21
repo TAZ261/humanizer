@@ -1,0 +1,5 @@
+{
+  "name": "Studentify AI",
+  "description": "Додаток для «олюднення» згенерованих ШІ текстів під стиль конкретного студента.",
+  "requestFramePermissions": []
+}
